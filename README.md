@@ -54,13 +54,13 @@ background:#f48fb1;
 <div class="contenido">
   
 <p>Carta porte o conocimiento de embarque</p>
+
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130192-cb1eeb7a-aa05-42e0-9e36-447b89f89497.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T001406Z&X-Amz-Expires=300&X-Amz-Signature=36841892cd2b5d70fb3493dfcc71369e5672d36738c578c0f3ac37445b4e7e50&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
 
 
 <p> Lista de empaque (packing list)</p>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130165-82d13e13-cae3-4355-b15a-0df216434ccf.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T001413Z&X-Amz-Expires=300&X-Amz-Signature=2c136d06e63cf87a17c6a19bc8917cc68fc0226a39cfa984cedfd0f9f69ab8ae&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
 
-</div>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130165-82d13e13-cae3-4355-b15a-0df216434ccf.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T001413Z&X-Amz-Expires=300&X-Amz-Signature=2c136d06e63cf87a17c6a19bc8917cc68fc0226a39cfa984cedfd0f9f69ab8ae&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
 
 <a href="Proyecto final.html" class="volver">
 Volver al inicio
