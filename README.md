@@ -55,7 +55,7 @@ background:#f48fb1;
   
 <p>Carta porte o conocimiento de embarque</p>
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130192-cb1eeb7a-aa05-42e0-9e36-447b89f89497.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T001406Z&X-Amz-Expires=300&X-Amz-Signature=36841892cd2b5d70fb3493dfcc71369e5672d36738c578c0f3ac37445b4e7e50&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130192-cb1eeb7a-aa05-42e0-9e36-447b89f89497.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T002618Z&X-Amz-Expires=300&X-Amz-Signature=649fd440dc6e88e19f03c38cd44eba1a6d08f39fd364ca41922cad9fe8140735&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
 
 
 <p> Lista de empaque (packing list)</p>
